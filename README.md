@@ -23,9 +23,7 @@ A simple analysis was carried out and the following are some of the findings got
 5. Hawaii is the most affordable state
 6. Maine has the most favorable weather while North Dakota comes in fifth position
 7. Mississippi is the state with the most well-being.
-
- States like Alaska, Louisiana, and South Carolina are not the best to live in after retirement based on their high crime rate.
- Mississippi, Hawaii, and Maine are the best places to live after retirement because they are affordable, have favorable weather conditions, and high ranking based on well-being.
+States like Alaska, Louisiana, and South Carolina are not the best to live in after retirement based on their high crime rate. Mississippi, Hawaii, and Maine are the best places to live after retirement because they are affordable, have favorable weather conditions, and high ranking based on well-being.
 ---
 # Recommendation
 Crime rates can be curbed especially in the top 5 states by crimes so as to ensure the safety of all its citizens. Actions could include; an increment in the security personnel who investigate any suspicious movements in their environment.
